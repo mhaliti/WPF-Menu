@@ -1,0 +1,17 @@
+L:\Muhamet\Projects\pSupport\pSupport\bin\Debug\pSupport.exe.config
+L:\Muhamet\Projects\pSupport\pSupport\bin\Debug\pSupport.exe
+L:\Muhamet\Projects\pSupport\pSupport\bin\Debug\pSupport.pdb
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\MainWindow.g.cs
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\App.g.cs
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\pSupport_MarkupCompile.cache
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\pSupport_MarkupCompile.lref
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\MainWindow.baml
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\pSupport.g.resources
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\pSupport.Properties.Resources.resources
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\pSupport.csproj.GenerateResource.Cache
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\pSupport.exe
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\pSupport.pdb
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\App.baml
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\pSupport.csprojResolveAssemblyReference.cache
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\MsgForm.g.cs
+L:\Muhamet\Projects\pSupport\pSupport\obj\Debug\MsgForm.baml
