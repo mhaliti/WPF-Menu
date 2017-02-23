@@ -13,7 +13,7 @@ namespace pSupport
     public partial class MainWindow : Window
     {
    
-        public static class Constants { public const string connect = "Data Source=vrsqladhoc;Initial Catalog=LoanAdminWrite;Integrated Security=True"; }
+        public static class Constants { public const string connect = "Data Source=xxxx;Initial Catalog=xxxx;Integrated Security=True"; }
 
         DatabaseConnection objConnect;
         string conString; 
