@@ -43,29 +43,11 @@ namespace pSupport
 
         }
 
-
         public void UpdateDatabse(DataSet ds)
         {
             System.Data.SqlClient.SqlCommandBuilder cb = new System.Data.SqlClient.SqlCommandBuilder(da_1);
             cb.DataAdapter.Update(ds.Tables[0]); 
-
         }
-
-
-
-
-
+   
     } // End Class
-
-
-
-
-
-
-
-
-
-
-
-
 } //End Namespace 
